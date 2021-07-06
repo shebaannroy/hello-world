@@ -1,4 +1,4 @@
 # hello-world
 First repository
-hiiiiiiii!!!
+hi!!!
 This is my first commit.
